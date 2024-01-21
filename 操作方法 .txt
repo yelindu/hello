@@ -1,0 +1,5 @@
+把激活文件里的app.asar替换覆盖到软件安装目录的resources里面
+默认路径 C:\Program Files\Typora\resources
+
+Replace app.asar with the resources in the software installation directory
+The default path C:\Program Files\Typora\resources
